@@ -6,7 +6,7 @@ My program simulates an online shopping cart. It has two classes. One represents
 # Purpose of this Software
 I wanted to write a program that uses some of the basics of Kotlin to gain familiar with how they do it. I thought this program could be a good reference for any of my future work using Kotlin. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+# Link to Demo
 
 [Language Kotlin Demo](https://youtu.be/-SAzxCnPSy8)
 
